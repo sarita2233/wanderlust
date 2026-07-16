@@ -62,5 +62,5 @@ https://your-render-url.onrender.com
 
 ## 👨‍💻 Author
 
-**Akshay Kumar**
+**sarita Kumari**
 GitHub: https://github.com/sarita2233
